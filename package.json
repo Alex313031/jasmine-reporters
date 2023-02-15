@@ -7,7 +7,7 @@
   "maintainers": "Ben Loveridge <bloveridge@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/larrymyers/jasmine-reporters.git"
+    "url": "git+https://github.com/larrymyers/jasmine-reporters.git"
   },
   "main": "./src/load_reporters.js",
   "dependencies": {
